@@ -1,7 +1,7 @@
 ## YOUNG AFRICANS MD 2024
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+young African s+md+Created+by+MSELACHUI03.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M">
- <img alt="JOEL BUG BOT" height="300" src="https://telegra.ph/file/507d4f9eff95f5ad7c60e.jpg">
+ <img alt="MSELACHUI03 BUG BOT" height="300" src="https://telegra.ph/file/507d4f9eff95f5ad7c60e.jpg">
   
 </h1> 
 <p align="center">l introduce <b>YOUNG AFRICANS MD</b>, a powerful simple WhatsApp bot </p>
@@ -36,11 +36,11 @@ star✨ my repo if you like this bot🤖
  GET SESSION ID BY
  
 
-<a href="https://joelsession1-4a8c04ad2935.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://chui-md.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
  
 
-<a href="https://joelsession1-4a8c04ad2935.herokuapp.com/pair"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://chui-md.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
 ## 3.THIRD STEP 
@@ -49,7 +49,7 @@ star✨ my repo if you like this bot🤖
 DEPLOY ON 
 
 <a
-      href='https://dashboard.heroku.com/new?template=https://github.com/joeljamestech/JOEL-MD/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-H EROKU-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+      href='https://dashboard.heroku.com/new?template=https://github.com/Mselachui03/YOUNG AFRICANS-MD/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-H EROKU-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
  
@@ -63,7 +63,7 @@ DEPLOY ON
 
 THANKS TO 
 
-1.myself (joel kang'oma)
+1.myself (MSELACHUI03 🐯💫⚡)
 
 
 
