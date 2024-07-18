@@ -60,6 +60,11 @@ DEPLOY ON
   
  [`Deploy on mudathir yahaya 🙂]
 
+
+
+
+
+
 THANKS TO 
 
 1.myself (MSELACHUI03 🐯💫⚡)
@@ -69,16 +74,21 @@ THANKS TO
 
 CONTACT DEVELOPER ON WHATSAPP 
 
-<a href="https://wa.link/e9lbut" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ joel tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
+<https://wa.me/260774358600
 
   
  
-<a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ JOEL  MD   CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
- 
 
+
+
+
+[🧑‍💻 Join mselachui Support Group 🧑‍💻](https://chat.whatsapp.com/KStfBpcFDOi154eVtrz6n1)
+
+
+
+
+
+I LOVE YOU YANGA 🔰💚💛
 
      
 
