@@ -1,8 +1,8 @@
 {
-  "name":"JOEL MD NEW UPDATE",
-  "description":"bot whatsapp développéd by joel tech",
+  "name":"YOUNG AFRICANS MD NEW UPDATE",
+  "description":"bot whatsapp développéd by mselachui tech",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/f281d0f0fa61e93b16539.jpg",
+  "logo":"https://telegra.ph/file/b1661af44ac43cd839091.jpg",
   "repository":"https://github.com/HACKING995/HACKING956",
   "succes_url":"/",
   "stack":"container",
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"JOEL MD",
+      "value":"YOUNG AFRICANS MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/9234fba57ea361c4788a3.jpg,https://telegra.ph/file/034da2514f9856ca27808.jpg,https://telegra.ph/file/34408d63d1de24ab8f574.jpg,https://telegra.ph/file/f281d0f0fa61e93b16539.jpg",
+      "value":"https://telegra.ph/file/504b1d4285501ec52b15b.jpg,https://telegra.ph/file/507d4f9eff95f5ad7c60e.jpg,https://telegra.ph/file/b1661af44ac43cd839091.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "joel tech"
+    "value": "MSELACHUI03 🐯💫"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255714595078"
+    "value": "260774358600"
   },
     "WARN_COUNT":
   {
