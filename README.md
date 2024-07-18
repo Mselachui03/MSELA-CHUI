@@ -53,13 +53,13 @@ DEPLOY ON
 
 
 
- [`Deploy on kibabage 🥱]
+ <a [`Deploy on kibabage 🥱]
  
  
 
 
   
- [`Deploy on mudathir yahaya 🙂]
+ <a [`Deploy on mudathir yahaya 🙂]
 
 
 
