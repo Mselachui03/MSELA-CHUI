@@ -71,14 +71,14 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("reject the finance bill in Kenya🇿🇦") ; return};
+        if(!superUser) { repondre("proud of Tanzania🇹🇿") ; return};
 
-      await   repondre("*join ganz official channel to reject the finance bill and shit in Kenya🇿🇦 https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M ");
-         repondre("don't do fake thinks i mean reject the finance bill in Kenya 🇿🇦:)")
+      await   repondre("*join  official channel to get more information in Tanzania 🇹🇿https://chat.whatsapp.com/KStfBpcFDOi154eVtrz6n1 ");
+         repondre("don't do fake thinks i mean proud of  Tanzania 🇹🇿:)")
      }
  } else {
 
-    if(!superUser) { repondre ("I am alive to reject the finance bill in Kenya🇿🇦") ; return};
+    if(!superUser) { repondre ("I am alive YOUNG AFRICANS ") ; return};
 
   
     const texte = arg.join(' ').split(';')[0];
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' join ganz official channel to reject the finance bill and shit in Kenya🇿🇦 https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M🇿🇦. ')
+repondre(' join how group https://chat.whatsapp.com/KStfBpcFDOi154eVtrz6n1. ')
 
 }
     });
