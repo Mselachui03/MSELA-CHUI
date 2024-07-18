@@ -1,6 +1,6 @@
 ## YOUNG AFRICANS MD 2024
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+young+Africans+md+Created+by+MSELACHUI03.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
- <a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M">
+ <a href="https://chat.whatsapp.com/KStfBpcFDOi154eVtrz6n1">
  <img alt="MSELACHUI03 BUG BOT" height="300" src="https://telegra.ph/file/507d4f9eff95f5ad7c60e.jpg">
   
 </h1> 
