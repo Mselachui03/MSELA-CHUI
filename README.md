@@ -4,7 +4,7 @@
  <img alt="MSELACHUI03 BUG BOT" height="300" src="https://telegra.ph/file/507d4f9eff95f5ad7c60e.jpg">
   
 </h1> 
-<p align="center">l introduce <b>YOUNG AFRICANS MD</b>, a powerful simple WhatsApp bot </p>
+<p align="center">l This is DAR ES SALAAM <b>YOUNG AFRICANS MD</b>, a powerful simple WhatsApp bot </p>
 
 
     
