@@ -49,7 +49,7 @@ star✨ my repo if you like this WhatsApp bot🤖
 DEPLOY ON 
 
 
-href='https://dashboard.heroku.com/new?template=https://github.com/Mselachui03/YOUNG AFRICANS-MD/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-H EROKU-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Mselachui03/YOUNG AFRICANS-MD/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-H EROKU-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
  [`Deploy on kibabage 🥱]
