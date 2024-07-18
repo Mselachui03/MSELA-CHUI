@@ -52,14 +52,8 @@ DEPLOY ON
 
 
 
- 
-<a href='https://wa.link/e9lbut' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/- RAILWAY -purple?style=for-the-badge&logo=railway&logoColor=white'/></a>
-
-
-<a href='https://wa.link/e9lbut' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-   K O Y E B  -red?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
-
-
-
+ [`Deploy on kibabage 🥱]
+ [`Deploy on mudathir yahaya 🙂]
 
 THANKS TO 
 
