@@ -66,26 +66,26 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏━━𒈒JOEL MD 2024 ━━┓
+┏━━𒈒YOUNG AFRICANS MD 2024 ━━┓
 ┃   Mode: ${mode}
 ┃   User : ${s.OWNER_NAME}
 ┃
-┣━𒈒joel md new vision 𒈒━➠
-┗━━━𒈒by joel tech 𒈒━━┛\n\n`;
+┣━𒈒MSELA-CHUI md new vision 𒈒━➠
+┗━━━𒈒by mselachui tech 𒈒━━┛\n\n`;
 
 
     
 
 let menuMsg = `
 ┏━━━━━━━━━━━━━━┓
-┣❏joel md bot 
-┣❏©joel _it🕷️
+┣❏young africans md bot 
+┣❏©mselachui _it🐯
 ┗━━━━━━━━━━━━━━┛\n
 
 
 
 
-𒈒joel md cmds𒈒
+𒈒young africans md cmds𒈒
 `;
 
 
@@ -112,13 +112,13 @@ let menuMsg = `
 
 
 ︎┏━━━━━━━━━━━━━━┓
-️┣❏joel md bot 
-┣❏© by joel tech 
+️┣❏young africans md bot 
+┣❏© by mselachui tech 
 ┗━━━━━━━━━━━━━━┛\n
 
 
 ┏━━━━━━━━━━━━━━┓
-┃powered by joeltech
+┃powered by mselachui tech
 ┗━━━━━━━━━━━━━━┛\n
 
 
@@ -134,7 +134,7 @@ let menuMsg = `
 
     try {
 
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *JOEL-BOT*, déveloper joel james" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *YOUNG AFRICANS-BOT*, déveloper msela chui" , gifPlayback : true }, { quoted: ms });
 
     }
 
