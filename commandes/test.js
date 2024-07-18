@@ -1,19 +1,19 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
-zokou({ nomCom: "test", reaction: "😌", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "test", reaction: "🇹🇿", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = 'Hello my name is  *joel md* \n\n ' + "i'm a whatsapp bot multi-device";
-    let d = ' by *joeltech*';
+    let z = 'Hello mwananchi this is *young africans md* \n\n ' + "i'm a whatsapp bot multi-device";
+    let d = ' by *mselachui tech*';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/2e93e4907c6ab6fb65347.jpg';
+    var img = 'https://telegra.ph/file/504b1d4285501ec52b15b.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
 console.log("mon test");
 /*module.exports.commande = () => {
   var nomCom = ["test","t"]
-  var reaction="☺️"
+  var reaction="🇹🇿"
   return { nomCom, execute,reaction }
 };
 
