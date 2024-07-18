@@ -2,8 +2,8 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
-zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/joeljamestech/JOEL-MD';
+zokou({ nomCom: "repo", catégorie:"Général", reaction: "🔰", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+  const githubRepo = 'https://api.github.com/repos/Mselachui03/YOUNG AFRICANS-MD';
   const img = 'https://telegra.ph/file/d65e03cbad4fb1fe35228.jpg';
 
   try {
@@ -21,17 +21,16 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __f
       const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
-      const gitdata = `*hellow whatsaap user
-this is* *joel-md.*\n get session id *by*, *pairing code*  https://joelsession1-4a8c04ad2935.herokuapp.com/pair/
+      const gitdata = `*hello MWANANCHI THIS IS YOUNG AFRICANS 💚💛 DAIMA MBELE NYUMA MWIKO.*\n get session id *by*, *pairing code*. https://chui-md.onrender.com/pair 
 
 🕷️ *REPOSITORY:* ${data.html_url}
 🕷️ *STARS:* ${repoInfo.stars}
 🕷️ *FORKS:* ${repoInfo.forks}
 🕷️ *RELEASE DATE:* ${releaseDate}
 🕷️ *UPDATE ON:* ${repoInfo.lastUpdate}
-🕷️ *OWNER:* *joel tech*
+🕷️ *OWNER:* *mselachui🐯💫 tech*
 __________________________________
-            *Made With joel kang'oma*`;
+            *Made With MSELACHUI03 🐯💫*`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
