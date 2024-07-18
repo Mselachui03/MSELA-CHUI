@@ -67,9 +67,9 @@ zokou({ nomCom: "joel", categorie: "Menu" }, async (dest, zk, commandeOptions) =
             menuMsg += "\t  ║ " + cmd + "" + " \n";
         }
     }
-    var link = "https://telegra.ph/file/94ff2d14a8be266434db6.jpg";
+    var link = "https://telegra.ph/file/507d4f9eff95f5ad7c60e.jpg";
     try {
-        zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©JOEL INC" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©MSELACHUI INC" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
