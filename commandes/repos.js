@@ -22,7 +22,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "💛", nomFichier: __
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow mwananchi ubaya ubwela
-this is💚 💛young africans -md.🔰\n get session id *by*, *pairing code*  https://joelsession1-4a8c04ad2935.herokuapp.com/pair/
+this is💚 💛young africans -md.🔰\n get session id *by*, *pairing code*  https://chui-md.onrender.com/pair
 
 🕷️ *REPOSITORY:* ${data.html_url}
 🕷️ *STARS:* ${repoInfo.stars}
