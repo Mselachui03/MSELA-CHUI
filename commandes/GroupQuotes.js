@@ -13,13 +13,13 @@ zokou({ nomCom: 'quote', categorie: 'Group' }, async (dest, zk, commandeOptions)
       fetch('https://animechan.xyz/api/random')
         .then((response) => response.json())
         .then(async (quote) => {
-          repondre(`*JOEL-MD Quotes*
+          repondre(`*YOUNG AFRICANS-MD Quotes*
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *joel md*`);
+Powered by *mselachui md*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
@@ -31,13 +31,13 @@ Powered by *joel md*`);
       fetch('https://animechan.xyz/api/random/character?name=' + query)
         .then((response) => response.json())
         .then(async (quote) => {
-          repondre(`Hacking-MD
+          repondre(`Yanga-MD
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *joel tech*`);
+Powered by *mselachui tech*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
