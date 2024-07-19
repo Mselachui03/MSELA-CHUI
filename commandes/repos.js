@@ -28,9 +28,9 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "🔰", nomFichier: __
 🕷️ *FORKS:* ${repoInfo.forks}
 🕷️ *RELEASE DATE:* ${releaseDate}
 🕷️ *UPDATE ON:* ${repoInfo.lastUpdate}
-🕷️ *OWNER:* *mselachui🐯💫 tech*
+🕷️ *OWNER:* *mselachui tech*
 __________________________________
-            *Made With MSELACHUI03 🐯💫*`;
+            *Made With MSELACHUI03 *`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
