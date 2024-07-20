@@ -4,7 +4,7 @@ const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "💛", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
   const githubRepo = 'https://api.github.com/repos/Mselachui03/YOUNG-AFRICANS-MD';
-  const img = 'https://telegra.ph/file/d65e03cbad4fb1fe35228.jpg';
+  const img = 'https://telegra.ph/file/a6aba88f3842a86a81077.jpg';
 
   try {
     const response = await fetch(githubRepo);
@@ -21,17 +21,17 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "💛", nomFichier: __
       const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
-      const gitdata = `*hellow ubaya  ubwela
-this is* *young africans-md.*\n get session id *by*, *pairing code* https://chui-md.onrender.com/pair /
+      const gitdata = `#MWANANCHI ubaya  ubwela
+this is# #YOUNG AFRICANS-MD.#\n get session id *by*, *pairing code* https://chui-md.onrender.com/pair /
 
 🕷️ *REPOSITORY:* ${data.html_url}
 🕷️ *STARS:* ${repoInfo.stars}
 🕷️ *FORKS:* ${repoInfo.forks}
 🕷️ *RELEASE DATE:* ${releaseDate}
 🕷️ *UPDATE ON:* ${repoInfo.lastUpdate}
-🕷️ *OWNER:* *chui tech*
+🕷️ *OWNER:* #chui tech#
 __________________________________
-            *Made With msela chui*`;
+            #Made With msela chui#`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
