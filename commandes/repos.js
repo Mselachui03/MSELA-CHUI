@@ -22,16 +22,16 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "💛", nomFichier: __
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `#MWANANCHI ubaya  ubwela
-this is# #YOUNG AFRICANS-MD.#\n get session id *by*, *pairing code* https://chui-md.onrender.com/pair /
+this is# *YOUNG AFRICANS-MD.*\n get session id *by*, *pairing code* https://chui-md.onrender.com/pair /
 
 🕷️ *REPOSITORY:* ${data.html_url}
 🕷️ *STARS:* ${repoInfo.stars}
 🕷️ *FORKS:* ${repoInfo.forks}
 🕷️ *RELEASE DATE:* ${releaseDate}
 🕷️ *UPDATE ON:* ${repoInfo.lastUpdate}
-🕷️ *OWNER:* #chui tech#
+🕷️ *OWNER:* *chui tech*
 __________________________________
-            #Made With msela chui#`;
+            *Made With msela chui*`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
