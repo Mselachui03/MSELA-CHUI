@@ -1,5 +1,5 @@
 ## MSELA CHUI MD_V2 2024
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+MSELA+CHUI+mdV2+Created+by+MSELACHUI03.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+MSELA+CHUI+mdV2+Created+by+MSELACHUI.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://chat.whatsapp.com/KStfBpcFDOi154eVtrz6n1">
  <img alt="MSELACHUI03 BUG BOT" height="300" src="https://telegra.ph/file/b5e8a490b30177df71db0.jpg">
   
