@@ -1,9 +1,9 @@
 {
-  "name":"YOUNG AFRICANS MD NEW UPDATE",
+  "name":"MSELA CHUI MD_V2 NEW UPDATE",
   "description":"bot whatsapp développéd by mselachui tech",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/a6aba88f3842a86a81077.jpg",
-  "repository":"https://github.com/Mselachui03/YOUNG AFRICANS MD",
+  "logo":"https://telegra.ph/file/b5e8a490b30177df71db0.jpg",
+  "repository":"https://github.com/Mselachui03/MSELA CHUI-MD_V2",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"YOUNG AFRICANS MD",
+      "value":"MSELA CHUI-MD_V2",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/504b1d4285501ec52b15b.jpg,https://telegra.ph/file/507d4f9eff95f5ad7c60e.jpg,https://telegra.ph/file/b1661af44ac43cd839091.jpg,https://telegra.ph/file/a6aba88f3842a86a81077.jpg",
+      "value":"https://telegra.ph/file/b5e8a490b30177df71db0.jpg",
       "required":false
        
      },
